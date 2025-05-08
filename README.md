@@ -13,9 +13,13 @@
 ### [PDF24 Creator](https://tools.pdf24.org/ja/creator#download)
 
 > [!WARNING]
-> インストール中に警告が表示されました。
-> 
+> 途中で警告が表示されましたが，インストールには成功しました。
+
 <img src="https://github.com/user-attachments/assets/e4939ef6-e78d-487b-96b4-632dea2c10d2" width=400 height=auto />
+
+`SET PRINT OPTION`が対応していないので，フリー版は印刷時にダイアログが表示されます。
+
+<img src="https://github.com/user-attachments/assets/3ae9b01e-96e1-40dc-8db1-eba5e81d0983" width=400 height=auto />
 
 ### [PDF Creator 6.0.1 Free](https://www.pdfforge.org/pdfcreator/download)
 
