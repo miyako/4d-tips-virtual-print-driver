@@ -5,7 +5,7 @@
 > [!CAUTION]
 > インストール中にエラーが発生しました。`PRINTERS LIST`に追加されません。
 
-### [PrimoPDF 4.1](https://www.xlsoft.com/jp/products/primopdf/download.html) 
+### [PrimoPDF 4.1.0.10](https://www.xlsoft.com/jp/products/primopdf/download.html) 
 
 > [!CAUTION]
 > インストール中にエラーが発生しました。`PRINTERS LIST`に追加されません。
