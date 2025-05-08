@@ -3,14 +3,19 @@
 ### [doPDF 11.9 build 492](https://ja.dopdf.com)
 
 > [!CAUTION]
-> インストール中にエラーが発生しました。
+> インストール中にエラーが発生しました。`PRINTERS LIST`に追加されません。
 
 ### [PrimoPDF](https://www.xlsoft.com/jp/products/primopdf/download.html) 
 
 > [!CAUTION]
-> インストール中にエラーが発生しました。
+> インストール中にエラーが発生しました。`PRINTERS LIST`に追加されません。
 
 ### [PDF24 Creator](https://tools.pdf24.org/ja/creator#download)
+
+> [!WARNING]
+> インストール中に警告が表示されました。
+> 
+<img src="https://github.com/user-attachments/assets/e4939ef6-e78d-487b-96b4-632dea2c10d2" width=400 height=auto />
 
 ### [PDF Creator 6.0.1 Free](https://www.pdfforge.org/pdfcreator/download)
 
