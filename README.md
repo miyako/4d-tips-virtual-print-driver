@@ -21,6 +21,28 @@
 
 <img src="https://github.com/user-attachments/assets/3ae9b01e-96e1-40dc-8db1-eba5e81d0983" width=400 height=auto />
 
+印刷は非同期なので，PDFの完成を待機する必要があります。
+
+```4d
+PRINTERS LIST($names)
+
+SET CURRENT PRINTER("PDF24")
+SET PRINT OPTION(Paper option; "A5")
+
+$before:=Folder(fk desktop folder).files().query("extension == :1"; ".pdf").extract("fullName")
+
+OPEN PRINTING JOB
+$h:=Print form("test")
+CLOSE PRINTING JOB
+
+Repeat 
+	$after:=Folder(fk desktop folder).files().query("extension == :1 except fullName in :2"; ".pdf"; $before).first()
+	DELAY PROCESS(Current process; 6)
+Until ($after#Null)
+
+OPEN URL($after.platformPath)
+```
+
 ### [PDF Creator 6.0.1 Free](https://www.pdfforge.org/pdfcreator/download)
 
 > [!WARNING]
