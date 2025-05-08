@@ -21,7 +21,7 @@
 
 <img src="https://github.com/user-attachments/assets/3ae9b01e-96e1-40dc-8db1-eba5e81d0983" width=400 height=auto />
 
-フリー版でも，設定アプリで保存フォルダーとファイルの命名規則を設定すれば，ダイアログを抑制できます。日本語のスプーラー名も反映されます。
+フリー版でも，設定アプリで保存フォルダーと自動保存ファイルの命名規則を設定すれば，ダイアログを抑制できます。日本語のスプーラー名も反映されます。
 
 <img src="https://github.com/user-attachments/assets/115c6dae-6f22-4658-a2df-10894e1f8e88" width=400 height=auto />
 
