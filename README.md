@@ -10,7 +10,7 @@
 > [!CAUTION]
 > インストール中にエラーが発生しました。`PRINTERS LIST`に追加されません。
 
-### [PDF24 Creator](https://tools.pdf24.org/ja/creator#download)
+### [PDF24 Creator 11.25.1](https://tools.pdf24.org/ja/creator#download)
 
 > [!WARNING]
 > 途中で警告が表示されましたが，インストールには成功しました。
