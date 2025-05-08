@@ -17,7 +17,7 @@
 
 <img src="https://github.com/user-attachments/assets/e4939ef6-e78d-487b-96b4-632dea2c10d2" width=400 height=auto />
 
-`SET PRINT OPTION`が対応していないので，フリー版は印刷時にダイアログが表示されます。
+`SET PRINT OPTION`が対応していないので，フリー版は印刷時にダイアログが表示されます。プロ版・OEM版であれば，強力なCLIツールが利用できます。フリー版でも，設定アプリで保存フォルダーとファイルの規則を設定すれば，ダイアログを抑制できます。
 
 <img src="https://github.com/user-attachments/assets/3ae9b01e-96e1-40dc-8db1-eba5e81d0983" width=400 height=auto />
 
