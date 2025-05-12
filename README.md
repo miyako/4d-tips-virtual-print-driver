@@ -7,7 +7,7 @@
 |[doPDF 11.9 build 492](https://ja.dopdf.com)|❌|❌|ARMインストール不可|
 |[PrimoPDF 4.1.0.10](https://www.xlsoft.com/jp/products/primopdf/download.html)|❌|❌|ARMインストール不可|
 |[bullzip 14.5.0.2974](https://www.bullzip.com/products/pdf/download.php)|❌|❌|ARMインストール不可[^bullzip]|
-|[PDF Creator 6.0.1 Free](https://www.pdfforge.org/pdfcreator/download)|❌|❌|印刷ダイアログ抑制不可[^pdfcreator]
+|[PDF Creator 6.0.1 Free](https://www.pdfforge.org/pdfcreator/download)|❌|❌|COMインタフェース利用不可[^pdfcreator]
 
 <img src="https://github.com/user-attachments/assets/5d490305-132c-411a-9e8f-a12603cc7bbf" width=400 height=auto />
 
