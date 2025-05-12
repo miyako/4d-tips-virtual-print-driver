@@ -1,18 +1,10 @@
 # 4d-tips-virtual-print-driver
 
-### [doPDF 11.9 build 492](https://ja.dopdf.com)
-
-> [!CAUTION]
-> インストール中にエラーが発生しました。`PRINTERS LIST`に追加されません。
-
-### [PrimoPDF 4.1.0.10](https://www.xlsoft.com/jp/products/primopdf/download.html) 
-
-> [!CAUTION]
-> インストール中にエラーが発生しました。`PRINTERS LIST`に追加されません。
-
-### [PDF Creator 6.0.1 Free](https://www.pdfforge.org/pdfcreator/download)
-
-> [!WARNING]
-> 最新版を汎用的な仮想ドライバーとしてインストールすることはできますが，`SET PRINT OPTION`が対応していないので，フリー版は印刷時にダイアログが表示されます。プロ版であれば，PowerShell経由でスクリプティング制御できます。また，フリー版であっても，[COM経由で制御](https://www.pdfforge.org/pdfcreator/editions)できそうです。
+|ドライバー|印刷ダイアログの抑制|出力ファイル名の指定|備考|
+|-|:-:|:-:|-|
+|[PDF24 Creator 11.25.1](https://github.com/miyako/4d-topic-pdf24)|✅|✅|CLI不可・GUI設定|
+|[doPDF 11.9 build 492](https://ja.dopdf.com)|❌|❌|インストールに失敗|
+|[PrimoPDF 4.1.0.10](https://www.xlsoft.com/jp/products/primopdf/download.html)|❌|❌|インストールに失敗|
+|[PDF Creator 6.0.1 Free](https://www.pdfforge.org/pdfcreator/download)|❌|❌|インストールは成功しますが，CLI不可なので，印刷時にダイアログが表示されます。有償版とは違い，COMオブジェクトがインストールされません。ホームページにはフリー版もCOMに対応していると書かれていますが，それは起動中のアプリをVBAで制御するという意味で，本格的なパラメーター制御ができるという意味ではありません。
 
 <img src="https://github.com/user-attachments/assets/5d490305-132c-411a-9e8f-a12603cc7bbf" width=400 height=auto />
